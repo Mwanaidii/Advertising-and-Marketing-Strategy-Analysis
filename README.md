@@ -85,9 +85,12 @@ Listeners Dataset:
 
 ## Key Insights
 
-![image](https://github.com/user-attachments/assets/f06b1296-abd0-4b19-a92c-e1bed3b05738)
 
-![image](https://github.com/user-attachments/assets/3fe663c4-a861-405c-8c3d-8513e76586c7)
+![Screenshot 2025-04-25 174033](https://github.com/user-attachments/assets/897ef9cb-086a-4c53-a9cf-1f8989b36828)
+
+
+![image](https://github.com/user-attachments/assets/ce58d6cc-022c-45c3-883a-49d99c749252)
+
 
 - From Sway's 3,000 listeners which comprises,  50.8% female, 46.7% male and 2.5% Others. 
 - A significant proportion of her listeners fall within the age bracket of 39 to 45. 
